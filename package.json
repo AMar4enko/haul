@@ -35,7 +35,7 @@
     "@react-slate/core": "^0.7.0",
     "@react-slate/utils": "^0.2.2",
     "@zamotany/react-proxy": "3.0.0-alpha.4",
-    "babel-core": "^6.24.0",
+    "babel-core": "^7.0.0-bridge.0",
     "babel-loader": "^7.1.4",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-flow-strip-types": "^6.22.0",
